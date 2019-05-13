@@ -43,4 +43,40 @@
    Beautiful Cloud Drive Markdown NoteBook Desktop App
 
 
-9. 
+9. [录屏软件](http://www.leesven.com/2378.html)
+   
+   ### 9.1 Kazam
+   
+   优点：
+   
+   易安装
+   可选择区域录制，也可全屏录制
+   有录屏和截图功能
+   
+   ```
+   sudo apt-get install kazam
+   ```
+   ### 9.2 Simple Screen Recorder
+   
+   - 录制OpenGl应用程序不需要额外下载解码器
+   - 低配电脑自动降帧
+   - 随用随录，操作任性
+   - 声音扩展性功能
+   - 可选择录制编码器
+   - 显示录制文件大小，心里有底
+   
+   ```
+   sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+   sudo apt-get update && sudo apt-get install simplescreenrecorder
+   ```
+   ### 9.3  RecordMyDesktop
+   
+   - RecordMyDesktop功能和Kazam差不多
+   - 支持多种文件格式录制
+   - 简单小巧
+   - 在虚拟机录制上会有轻微卡顿（瑕疵）
+   - RecordMyDesktop安装
+   
+   ```
+   sudo apt-get install recordmydesktop
+   ```
