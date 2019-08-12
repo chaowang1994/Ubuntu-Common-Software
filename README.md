@@ -80,3 +80,9 @@
    ```
    sudo apt-get install recordmydesktop
    ```
+## 10. ubuntu下分区工具
+
+gparted
+
+安装方式：apt-get install gparted
+
