@@ -84,5 +84,5 @@
 
 gparted
 
-安装方式：apt-get install gparted
+安装方式：sudo apt-get install gparted
 
