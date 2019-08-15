@@ -86,3 +86,6 @@ gparted
 
 安装方式：sudo apt-get install gparted
 
+## 11. netron 可视化 tensorflow pb 文件
+
+膜拜大佬[netron](https://github.com/lutzroeder/netron/)
